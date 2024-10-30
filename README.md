@@ -61,5 +61,5 @@ app.listen(3000, () => {
 ```
 
 ## Contact
-Email: kieutuananh1995@gmail.com
-Skype: tuananhzippy
+- Email: kieutuananh1995@gmail.com
+- Skype: tuananhzippy
